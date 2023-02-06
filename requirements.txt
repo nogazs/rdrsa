@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+tdict
+matplotlib
+ipython
+tqdm
+ipython
